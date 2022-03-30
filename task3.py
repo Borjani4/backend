@@ -1,1 +1,1 @@
-print('Now war')
+print('Как вас зовут?')
