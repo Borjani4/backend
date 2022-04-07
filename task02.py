@@ -1,4 +1,4 @@
-n = 6
-k=50
-print=(n/k)
+n = int(input())
+k=int(input())
+print=(k//n)
 print(k % n)
