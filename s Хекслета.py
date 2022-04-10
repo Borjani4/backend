@@ -11,3 +11,4 @@ print(" King's "  +  'Landinge')
 print ("Who's to blame?")
 print("\\")
 
+Не могу пройти 4 вопрос в тесте (на 3 ответил правильно!).
