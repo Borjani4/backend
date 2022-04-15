@@ -22,11 +22,14 @@ school = 'Hexlet'
 whatIsIt = f'{school} - online courses'
 print(whatIsIt) 
 
-a='Do you want to eat,'
+"""a='Do you want to eat,'
 b="Yes, I'm hungry, mom."
 stark = 'Arya'
 print(f'''{a} {stark}? 
-{b}''')
+{b}''')"""
+
+stark = 'Arya'
+print(f'''{Do you want to eat,} {stark}? {Yes, Im hungry, mom.}''')
 
 """Выведите на экран две строки:
  Do you want to eat, <name>? и 
